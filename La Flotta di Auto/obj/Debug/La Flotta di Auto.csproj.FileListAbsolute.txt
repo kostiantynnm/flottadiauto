@@ -1,0 +1,15 @@
+C:\Programming\La Flotta di Auto\La Flotta di Auto\bin\Debug\La Flotta di Auto.exe.config
+C:\Programming\La Flotta di Auto\La Flotta di Auto\bin\Debug\La Flotta di Auto.exe
+C:\Programming\La Flotta di Auto\La Flotta di Auto\bin\Debug\La Flotta di Auto.pdb
+C:\Programming\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.csproj.AssemblyReference.cache
+C:\Programming\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.csproj.SuggestedBindingRedirects.cache
+C:\Programming\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.csproj.CoreCompileInputs.cache
+C:\Programming\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.exe
+C:\Programming\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.pdb
+F:\4E\La Flotta di Auto\La Flotta di Auto\bin\Debug\La Flotta di Auto.exe.config
+F:\4E\La Flotta di Auto\La Flotta di Auto\bin\Debug\La Flotta di Auto.exe
+F:\4E\La Flotta di Auto\La Flotta di Auto\bin\Debug\La Flotta di Auto.pdb
+F:\4E\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.csproj.AssemblyReference.cache
+F:\4E\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.csproj.CoreCompileInputs.cache
+F:\4E\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.exe
+F:\4E\La Flotta di Auto\La Flotta di Auto\obj\Debug\La Flotta di Auto.pdb
