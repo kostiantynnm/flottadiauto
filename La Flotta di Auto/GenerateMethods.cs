@@ -5,8 +5,8 @@ namespace La_Flotta_di_Auto
 {
     internal static class Methods
     {
-        static List<string> AllTarga = new List<string>();
-        static List<string> AllAutorisation = new List<string>();
+        static public List<string> AllTarga = new List<string>();
+        static public List<string> AllAutorisation = new List<string>();
         public static string GenerateAutorisation()
         {
             string autorisation = "";

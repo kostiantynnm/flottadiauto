@@ -60,18 +60,24 @@ namespace La_Flotta_di_Auto
                     Console.WriteLine("Targa already exists!");
                     InsertTarga();
                 }
+                else
+                {
+                    Methods.AllTarga.Add(targa);
+                    return targa;
+                }
             }
             else if (choice == 2)
             {
                 targa = Methods.CreaTarga();
                 Console.WriteLine(targa);
+                return targa;
             }
             else
             {
                 Console.Clear();
                 InsertTarga();
             }
-            return targa;
+            return null;
         }
         public void VisualizzaMenu()
         {
