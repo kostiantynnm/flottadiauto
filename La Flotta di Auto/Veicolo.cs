@@ -9,11 +9,11 @@ namespace La_Flotta_di_Auto
     internal class Veicolo
     {
         string _marca;
-        public string _targa { get; }
         string _modello;
+        static int codiceCount = 0;
+        public string _targa { get; private set; }
         public NumeroPosti _posti { get; private set; }
         public int _codice { get; }
-        static int codiceCount = 0;
         public override string ToString()
         {
             return $"Marca : {_marca} \n" +
